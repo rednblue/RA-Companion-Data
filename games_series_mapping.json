@@ -14,7 +14,7 @@
       "series": [
         {
           "series_id": 8076,
-          "series_name": "Arkanoid",
+          "series_name": "Arkanoid"
         }
       ]
     },
@@ -25,11 +25,11 @@
       "series": [
         {
           "series_id": 1001,
-          "series_name": "Super Mario",
+          "series_name": "Super Mario"
         },
         {
           "series_id": 2005,
-          "series_name": "Platformer - 2D",
+          "series_name": "Platformer - 2D"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "series": [
         {
           "series_id": 3050,
-          "series_name": "Castlevania",
+          "series_name": "Castlevania"
         }
       ]
     }

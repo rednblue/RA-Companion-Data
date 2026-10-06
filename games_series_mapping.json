@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "generated_at": "2026-10-06T14:56:00Z",
+    "source": "https://retroachievements.org",
+    "skipped_hubs_count": 0,
+    "total_games": 3,
+    "total_series_hubs_processed": 2
+  },
+  "games": [
+    {
+      "game_id": 392,
+      "game_title": "Arkanoid",
+      "series_count": 1,
+      "series": [
+        {
+          "series_id": 8076,
+          "series_name": "Arkanoid",
+        }
+      ]
+    },
+    {
+      "game_id": 1245,
+      "game_title": "Super Mario Bros.",
+      "series_count": 2,
+      "series": [
+        {
+          "series_id": 1001,
+          "series_name": "Super Mario",
+        },
+        {
+          "series_id": 2005,
+          "series_name": "Platformer - 2D",
+        }
+      ]
+    },
+    {
+      "game_id": 2100,
+      "game_title": "Castlevania: Symphony of the Night",
+      "series_count": 1,
+      "series": [
+        {
+          "series_id": 3050,
+          "series_name": "Castlevania",
+        }
+      ]
+    }
+  ]
+}
